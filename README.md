@@ -1,119 +1,115 @@
-
 <div align="center">
-  
-# 👋 Hi, I'm Tayeb Hammami
 
-### 🤖 AI Engineer in Progress | NLP | Agentic AI | Computer Vision
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · tayebhammami</sub></p>
+<h1>tayebhammami</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-<p>
-  Building intelligent systems that solve real-world problems.
+<p><a href="https://github.com/tayebhammami">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/117325234?u=3ab1a29fa5b9d774d907cf67776f63544d642a03&amp;v=4" width="180" alt="tayebhammami GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
+
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Dart · PHP · TypeScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>17 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>8 contributions · 4 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Building useful software and sharing the work in public.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>17</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>8</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=tayebhammami&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117325234%3Fu%3D3ab1a29fa5b9d774d907cf67776f63544d642a03%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=tayebhammami&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117325234%3Fu%3D3ab1a29fa5b9d774d907cf67776f63544d642a03%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="tayebhammami GitHub proof metrics" />
+</picture>
 </p>
 
-<a href="https://github.com/TayebHammami">
-  <img src="https://img.shields.io/badge/GitHub-TayebHammami-181717?style=for-the-badge&logo=github" />
-</a>
-<img src="https://img.shields.io/badge/Focus-Agentic_AI-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Field-NLP-purple?style=for-the-badge" />
+<h2>Selected work</h2>
 
-</div>
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=tayebhammami&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117325234%3Fu%3D3ab1a29fa5b9d774d907cf67776f63544d642a03%26v%3D4&repos=tayebhammami%2FTayebHammami%2Ctayebhammami%2FBackend-digital-twin%2Ctayebhammami%2FDigital-Twin-AiAgent-backend%2Ctayebhammami%2FDigital-twin-Ai-Agent-reactApp&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=tayebhammami&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117325234%3Fu%3D3ab1a29fa5b9d774d907cf67776f63544d642a03%26v%3D4&repos=tayebhammami%2FTayebHammami%2Ctayebhammami%2FBackend-digital-twin%2Ctayebhammami%2FDigital-Twin-AiAgent-backend%2Ctayebhammami%2FDigital-twin-Ai-Agent-reactApp&v=recruiter-projects-1&mode=dark" width="100%" alt="tayebhammami selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/TayebHammami/TayebHammami">TayebHammami</a></h3>
+<p>A selected public project.</p>
+<p><sub>⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/TayebHammami/TayebHammami">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
----
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/TayebHammami/Backend-digital-twin">Backend-digital-twin</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/TayebHammami/Digital-Twin-AiAgent-backend">Digital-Twin-AiAgent-backend</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/TayebHammami/Digital-twin-Ai-Agent-reactApp">Digital-twin-Ai-Agent-reactApp</a></h3><p>An AI-powered Digital Twin built with Python, Gradio, OpenRouter, tool calling, and Pushover. It acts as an interactive representation of my backgroun</p><p><sub>CSS · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-## 🧑‍💻 About Me
+<h2>Technical toolkit</h2>
 
-- 🎓 Master's student in Information Systems and New Technologies
-- 🧠 Exploring Large Language Models (LLMs) and Transformers
-- 🤖 Learning Agentic AI, tool calling, and RAG systems
-- 👁️ Interested in Computer Vision, OCR, and Deep Learning
-- 🚀 Building practical AI applications and intelligent workflows
-- 🌍 Based in Tunisia
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=tayebhammami&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117325234%3Fu%3D3ab1a29fa5b9d774d907cf67776f63544d642a03%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=tayebhammami&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117325234%3Fu%3D3ab1a29fa5b9d774d907cf67776f63544d642a03%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="tayebhammami technology stack" />
+</picture>
+</p>
 
----
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Dart</strong><br /><sub>57% of public code</sub></td>
+<td width="20%" align="center"><strong>PHP</strong><br /><sub>19% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>10% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>6% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>3% of public code</sub></td>
+</tr>
+</table>
 
-## 🛠️ Tech Stack
+<h2>Consistency signal</h2>
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=tayebhammami&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117325234%3Fu%3D3ab1a29fa5b9d774d907cf67776f63544d642a03%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=tayebhammami&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117325234%3Fu%3D3ab1a29fa5b9d774d907cf67776f63544d642a03%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="tayebhammami contribution activity" />
+</picture>
+</p>
 
-### AI & Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+<hr />
 
-### Backend & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/tayebhammami">GitHub</a></td>
+</tr>
+</table>
 
----
-
-## 🚀 Featured Projects
-
-### 🧾 AI Cheque Reader
-An OCR-based application for extracting cheque information using computer vision and text recognition.
-
-**Technologies:** Python · YOLO · TrOCR · OpenCV · Flask · Flutter
-
-### ❤️ Heart Failure Prediction
-A machine learning project for predicting heart failure risk from clinical data.
-
-**Technologies:** Python · Scikit-learn · Machine Learning · Flask
-
-### 🍎 Fruits Detector
-A mobile image-recognition application using a deep learning model optimized for on-device inference.
-
-**Technologies:** Flutter · TensorFlow Lite · MobileNetV2
-
-### 🌐 Digital Twin
-An AI-powered web application combining a React frontend with a FastAPI backend.
-
-**Technologies:** React · FastAPI · Python · AI APIs
-
----
-
-## 🎯 Current Learning Goals
-
-- Building reliable AI agents and tool-calling workflows
-- Understanding RAG, embeddings, and semantic search
-- Exploring Transformer architectures for NLP
-- Deploying AI models through APIs and Docker
-- Improving model evaluation and software engineering practices
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=TayebHammami&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayebHammami&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Most used languages"
-  />
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in AI Engineering, NLP research, and open-source collaboration.
-
-- 💻 GitHub: [@TayebHammami](https://github.com/TayebHammami)
-- 📫 Open to learning opportunities and collaborative AI projects.
-
----
-
-<div align="center">
-  <i>"Great things are built one experiment at a time."</i>
-</div>
+<p align="center"><sub>tayebhammami · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
